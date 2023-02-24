@@ -1,0 +1,15 @@
+@media (max-width: 500px) {
+    .conteiner-principal{
+        width: 270px;
+        height: 450px;
+    }
+    h1{
+        font-size: 1.7rem;
+    }
+    p{
+        font-size: 1.24rem;
+    }
+    footer, a{
+        font-size: 9px;
+    }
+}
